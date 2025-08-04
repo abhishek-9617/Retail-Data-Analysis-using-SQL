@@ -52,7 +52,7 @@ SQL - Retail data analysis/
 
 ---
 
-## 📸 Optional: Add a Screenshot
+## 📸 Screenshot
 
 To include visual proof of your results (e.g., table previews or SQL output), save a screenshot and place it in an `outputs/` folder:
 
@@ -67,4 +67,5 @@ To include visual proof of your results (e.g., table previews or SQL output), sa
 ## 📌 Author
 
 **Abhishek Bhardwaj** 
+
 [Linkedin Link](https://www.linkedin.com/in/abhishekbhardwaj28)  |  [GitHub Link](https://github.com/abhishek-9617)
