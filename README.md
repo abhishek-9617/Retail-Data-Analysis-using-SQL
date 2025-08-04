@@ -62,7 +62,6 @@ To include visual proof of your results (e.g., table previews or SQL output), sa
 
 ![Sample Output](outputs/plots/fig3.png)
 
-![Sample Output](outputs/plots/fig4.png)
 
 ## 📌 Author
 
